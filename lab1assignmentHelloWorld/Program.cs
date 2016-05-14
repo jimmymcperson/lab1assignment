@@ -10,10 +10,12 @@ using System.Threading.Tasks;
  * Date Modified: May 13, 2016
  * Student ID: 300869273
  * 
- * Description: This program demonstrates GitHub control and unit testing practices.
+ * Description: This program prints "Hello, World!" to the screen using a method call.
+ *              It also demonstrates GitHub control and unit testing practices.
+ *
  * @module HelloWorld
  * @main HelloWorld
- * Version: 0.01 - Initial Commit
+ * Version: 0.02 - Updated description and created unit test program.
  */
 
 namespace HelloWorld
