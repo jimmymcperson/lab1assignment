@@ -15,7 +15,7 @@ using System.Threading.Tasks;
  *
  * @module HelloWorld
  * @main HelloWorld
- * Version: 0.02 - Updated description and created unit test program.
+ * Version: 0.03 - Changed comment content and formatting. Made test that fails. 
  */
 
 namespace HelloWorld
@@ -33,7 +33,7 @@ namespace HelloWorld
         *
         * @method Main
         * @static Main
-        * @param args {string[]} No idea what this does -- came with MS Visual Studio template
+        * @param {string[]} args No idea what this does -- came with MS Visual Studio template
         */
         static void Main(string[] args)
         {
@@ -45,8 +45,8 @@ namespace HelloWorld
         * This is my Hello world Method
         *
         * @method HelloWorldToConsole
-        * @param
-        * @return HelloWorldString {string}
+        * @static HelloWorldToConsole
+        * @return {string} HelloWorldString
         */
         public static string HelloWorldToConsole()
         {

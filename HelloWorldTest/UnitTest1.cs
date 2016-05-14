@@ -1,8 +1,9 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using HelloWorld;
 
 
-namespace lab1assignmentHelloWorldTest
+namespace HelloWorldTest
 {
     /**
     * This class is used to test methods.
@@ -23,11 +24,14 @@ namespace lab1assignmentHelloWorldTest
         public void HelloWorldToConsoleTest()
         {
             // Arrange
-            
+            string actualResult;
+            string expectedResult = "Hello, World!";
 
             // Act
+            actualResult = "Boo";
 
             // Assert
+            Assert.AreEqual(expectedResult, actualResult);
         }
     }
 }
