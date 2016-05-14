@@ -15,7 +15,7 @@ using System.Threading.Tasks;
  *
  * @module HelloWorld
  * @main HelloWorld
- * Version: 0.03 - Changed comment content and formatting. Made test that fails. 
+ * Version: 0.04 - Test for HelloWorldToConsole completed.
  */
 
 namespace HelloWorld

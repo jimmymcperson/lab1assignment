@@ -28,7 +28,7 @@ namespace HelloWorldTest
             string expectedResult = "Hello, World!";
 
             // Act
-            actualResult = "Boo";
+            actualResult = HelloWorldProgram.HelloWorldToConsole();
 
             // Assert
             Assert.AreEqual(expectedResult, actualResult);
