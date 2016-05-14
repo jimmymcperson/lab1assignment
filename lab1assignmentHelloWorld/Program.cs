@@ -15,7 +15,7 @@ using System.Threading.Tasks;
  *
  * @module HelloWorld
  * @main HelloWorld
- * Version: 0.04 - Test for HelloWorldToConsole completed.
+ * Version: 0.05 - Comment block added to HelloWorldTest class for documentation.
  */
 
 namespace HelloWorld

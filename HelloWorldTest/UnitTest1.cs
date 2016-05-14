@@ -2,7 +2,17 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using HelloWorld;
 
-
+/**
+ * Author: Jonathan Hao
+ * Date Created: May 13, 2016
+ * Date Modified: May 13, 2016
+ * Student ID: 300869273
+ * 
+ * Description: This program tests HelloWorldToConsole method from HelloWorldProgram class.
+ *
+ * @main HelloWorldTest
+ * Version: 0.01
+ */
 namespace HelloWorldTest
 {
     /**
